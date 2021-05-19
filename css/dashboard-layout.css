@@ -1,0 +1,12 @@
+.navegacao {
+    box-shadow: 1px 2px #54542c;
+    text-align: center;
+}
+
+.nav-menu>li {
+    padding: 0 0 0 30px;
+}
+
+.bg-dark {
+    background-color:#264125 !important;
+}
